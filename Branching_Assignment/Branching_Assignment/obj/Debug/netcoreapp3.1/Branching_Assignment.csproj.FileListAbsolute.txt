@@ -1,0 +1,14 @@
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.exe
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.deps.json
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.runtimeconfig.json
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.runtimeconfig.dev.json
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\bin\Debug\netcoreapp3.1\Branching_Assignment.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.csproj.AssemblyReference.cache
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.AssemblyInfoInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.AssemblyInfo.cs
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\Branching_Assignment\Branching_Assignment\obj\Debug\netcoreapp3.1\Branching_Assignment.genruntimeconfig.cache
