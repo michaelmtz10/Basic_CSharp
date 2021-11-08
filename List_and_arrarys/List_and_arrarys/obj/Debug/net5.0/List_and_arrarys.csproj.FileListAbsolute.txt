@@ -1,0 +1,15 @@
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\bin\Debug\net5.0\List_and_arrarys.exe
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\bin\Debug\net5.0\List_and_arrarys.deps.json
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\bin\Debug\net5.0\List_and_arrarys.runtimeconfig.json
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\bin\Debug\net5.0\List_and_arrarys.runtimeconfig.dev.json
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\bin\Debug\net5.0\List_and_arrarys.dll
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\bin\Debug\net5.0\ref\List_and_arrarys.dll
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\bin\Debug\net5.0\List_and_arrarys.pdb
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\obj\Debug\net5.0\List_and_arrarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\obj\Debug\net5.0\List_and_arrarys.AssemblyInfoInputs.cache
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\obj\Debug\net5.0\List_and_arrarys.AssemblyInfo.cs
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\obj\Debug\net5.0\List_and_arrarys.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\obj\Debug\net5.0\List_and_arrarys.dll
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\obj\Debug\net5.0\ref\List_and_arrarys.dll
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\obj\Debug\net5.0\List_and_arrarys.pdb
+C:\Users\mmtz1\source\repos\List_and_arrarys\List_and_arrarys\obj\Debug\net5.0\List_and_arrarys.genruntimeconfig.cache
