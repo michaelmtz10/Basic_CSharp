@@ -1,0 +1,16 @@
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\bin\Debug\net5.0\String_and_Integers.exe
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\bin\Debug\net5.0\String_and_Integers.deps.json
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\bin\Debug\net5.0\String_and_Integers.runtimeconfig.json
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\bin\Debug\net5.0\String_and_Integers.runtimeconfig.dev.json
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\bin\Debug\net5.0\String_and_Integers.dll
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\bin\Debug\net5.0\ref\String_and_Integers.dll
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\bin\Debug\net5.0\String_and_Integers.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\String_and_Integers.csproj.AssemblyReference.cache
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\String_and_Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\String_and_Integers.AssemblyInfoInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\String_and_Integers.AssemblyInfo.cs
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\String_and_Integers.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\String_and_Integers.dll
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\ref\String_and_Integers.dll
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\String_and_Integers.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\String_and_Integers\String_and_Integers\obj\Debug\net5.0\String_and_Integers.genruntimeconfig.cache
