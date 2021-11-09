@@ -1,0 +1,16 @@
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\bin\Debug\net5.0\List_and_Array_Assignment.exe
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\bin\Debug\net5.0\List_and_Array_Assignment.deps.json
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\bin\Debug\net5.0\List_and_Array_Assignment.runtimeconfig.json
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\bin\Debug\net5.0\List_and_Array_Assignment.runtimeconfig.dev.json
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\bin\Debug\net5.0\List_and_Array_Assignment.dll
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\bin\Debug\net5.0\ref\List_and_Array_Assignment.dll
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\bin\Debug\net5.0\List_and_Array_Assignment.pdb
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\List_and_Array_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\List_and_Array_Assignment.AssemblyInfoInputs.cache
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\List_and_Array_Assignment.AssemblyInfo.cs
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\List_and_Array_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\List_and_Array_Assignment.dll
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\ref\List_and_Array_Assignment.dll
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\List_and_Array_Assignment.pdb
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\List_and_Array_Assignment.genruntimeconfig.cache
+C:\Users\mmtz1\source\repos\List_and_Array_Assignment\List_and_Array_Assignment\obj\Debug\net5.0\List_and_Array_Assignment.csproj.AssemblyReference.cache
