@@ -1,0 +1,16 @@
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\bin\Debug\net5.0\calling_methods.exe
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\bin\Debug\net5.0\calling_methods.deps.json
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\bin\Debug\net5.0\calling_methods.runtimeconfig.json
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\bin\Debug\net5.0\calling_methods.runtimeconfig.dev.json
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\bin\Debug\net5.0\calling_methods.dll
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\bin\Debug\net5.0\ref\calling_methods.dll
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\bin\Debug\net5.0\calling_methods.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\calling_methods.csproj.AssemblyReference.cache
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\calling_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\calling_methods.AssemblyInfoInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\calling_methods.AssemblyInfo.cs
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\calling_methods.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\calling_methods.dll
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\ref\calling_methods.dll
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\calling_methods.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\calling_methods\calling_methods\obj\Debug\net5.0\calling_methods.genruntimeconfig.cache
