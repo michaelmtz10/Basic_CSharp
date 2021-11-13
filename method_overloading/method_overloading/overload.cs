@@ -14,13 +14,13 @@ namespace method_overloading
 
             return total;
         }
-        internal decimal the_method(decimal b)
+        public decimal the_method(decimal b)
         {
             decimal amount = b * 100;
 
             return amount;
         }
-        internal string the_method(string num)
+        public string the_method(string num)
         {
             int num_converted;
             num_converted = Int32.Parse(num);
