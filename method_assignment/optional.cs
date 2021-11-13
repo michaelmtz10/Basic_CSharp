@@ -8,7 +8,7 @@ namespace method_assignment
 {
     class optional
     {
-        internal int Options(int a, int b = 80)
+        public int Options(int a, int b = 80)
         {
             return a * b;
         }
