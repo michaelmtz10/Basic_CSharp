@@ -23,7 +23,7 @@ namespace method_overloading
         public string the_method(string num)
         {
             int num_converted;
-            num_converted = Int32.Parse(num);
+            num_converted = Convert.ToInt32(num);
 
             return num;
         }
