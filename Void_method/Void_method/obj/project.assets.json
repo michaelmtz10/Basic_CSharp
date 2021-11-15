@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmtz1\\source\\repos\\Void_method\\Void_method\\Void_method.csproj",
+      "projectUniqueName": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Void_method\\Void_method\\Void_method.csproj",
       "projectName": "Void_method",
-      "projectPath": "C:\\Users\\mmtz1\\source\\repos\\Void_method\\Void_method\\Void_method.csproj",
+      "projectPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Void_method\\Void_method\\Void_method.csproj",
       "packagesPath": "C:\\Users\\mmtz1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmtz1\\source\\repos\\Void_method\\Void_method\\obj\\",
+      "outputPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Void_method\\Void_method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmtz1\\AppData\\Roaming\\NuGet\\NuGet.Config",
