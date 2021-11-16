@@ -6,17 +6,15 @@ namespace Void_method
     {
         static void Main(string[] args)
         {
-            try
-            {
-                Console.WriteLine("Enter a number");
-                int response_1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a number..");
+            int int_1 = Convert.ToInt32(Console.ReadLine()); // ask user to input num which will have math operation
 
-                Console.WriteLine("Enter a second number..");
-                int response_2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a second number..");
+            int int_2 = Convert.ToInt32(Console.ReadLine()); // ask user num which only render num
 
-                void_method my_instance = new void_method();
-                Console.WriteLine(my_instance.Solver(response_1, response_2));
-            }
+            void_method result = new void_method(); // create instance of class void_method
+            result.Solver(5, 7); // giving parameters to method
+
         }
     }
 }
