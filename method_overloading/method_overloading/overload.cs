@@ -20,12 +20,12 @@ namespace method_overloading
 
             return amount;
         }
-        public string the_method(string num)
+        public int the_method(string num)
         {
             int num_converted;
             num_converted = Convert.ToInt32(num);
 
-            return num;
+            return num_converted + 5;
         }
     }
 }

@@ -26,7 +26,8 @@ namespace method_overloading
             Console.WriteLine("Type in the actual word of a valid number..");
             string num = Convert.ToString(Console.ReadLine()); // converts user input to string
             overload overload_3 = new overload(); // new instance of method
-            string output = overload_3.the_method(num); // output will equal nethod with method string to int
+
+            int output = overload_3.the_method(num); // output will equal nethod with method string to int
             Console.WriteLine(output);
             Console.ReadLine();
         }
