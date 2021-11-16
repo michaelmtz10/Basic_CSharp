@@ -23,7 +23,7 @@ namespace method_overloading
             Console.WriteLine(amount);
 
             // method overload 3
-            Console.WriteLine("Type in the actual word of a valid number..");
+            Console.WriteLine("Type in a number..");
             string num = Convert.ToString(Console.ReadLine()); // converts user input to string
             overload overload_3 = new overload(); // new instance of method
 
