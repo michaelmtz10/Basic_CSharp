@@ -8,9 +8,15 @@ namespace method_assignment
 {
     class optional
     {
-        public int Options(int a, int b = 80)
+        public void Options(int a)
         {
-            return a * b;
+
+            Console.WriteLine(a + 40);
+        }
+        public void Options(int a, int b = 37)
+        {
+            Console.WriteLine(a);
+            Console.WriteLine(b);
         }
     }
 }

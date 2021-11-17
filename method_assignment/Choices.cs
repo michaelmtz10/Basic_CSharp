@@ -14,8 +14,9 @@ namespace method_assignment
                 int b = Convert.ToInt32(Console.ReadLine());
 
                 optional result = new optional();
-                int output = result.Options(a, b);
-                Console.WriteLine(output);
+                result.Options(a);
+                result.Options(a, b);
+            
             }
             catch (FormatException) 
             {
