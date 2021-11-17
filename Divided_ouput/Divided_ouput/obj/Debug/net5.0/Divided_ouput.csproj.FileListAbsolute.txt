@@ -1,0 +1,16 @@
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\bin\Debug\net5.0\Divided_ouput.exe
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\bin\Debug\net5.0\Divided_ouput.deps.json
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\bin\Debug\net5.0\Divided_ouput.runtimeconfig.json
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\bin\Debug\net5.0\Divided_ouput.runtimeconfig.dev.json
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\bin\Debug\net5.0\Divided_ouput.dll
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\bin\Debug\net5.0\ref\Divided_ouput.dll
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\bin\Debug\net5.0\Divided_ouput.pdb
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\Divided_ouput.csproj.AssemblyReference.cache
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\Divided_ouput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\Divided_ouput.AssemblyInfoInputs.cache
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\Divided_ouput.AssemblyInfo.cs
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\Divided_ouput.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\Divided_ouput.dll
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\ref\Divided_ouput.dll
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\Divided_ouput.pdb
+C:\Users\mmtz1\source\repos\Divided_ouput\Divided_ouput\obj\Debug\net5.0\Divided_ouput.genruntimeconfig.cache

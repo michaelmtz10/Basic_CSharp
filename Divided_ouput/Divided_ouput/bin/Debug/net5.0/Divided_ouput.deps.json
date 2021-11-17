@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Divided_ouput/1.0.0": {
+        "runtime": {
+          "Divided_ouput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divided_ouput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
