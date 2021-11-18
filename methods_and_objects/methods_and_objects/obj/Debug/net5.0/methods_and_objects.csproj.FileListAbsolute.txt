@@ -1,0 +1,16 @@
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\methods_and_objects.csproj.AssemblyReference.cache
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\methods_and_objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\methods_and_objects.AssemblyInfoInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\methods_and_objects.AssemblyInfo.cs
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\methods_and_objects.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\bin\Debug\net5.0\methods_and_objects.exe
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\bin\Debug\net5.0\methods_and_objects.deps.json
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\bin\Debug\net5.0\methods_and_objects.runtimeconfig.json
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\bin\Debug\net5.0\methods_and_objects.runtimeconfig.dev.json
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\bin\Debug\net5.0\methods_and_objects.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\bin\Debug\net5.0\ref\methods_and_objects.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\bin\Debug\net5.0\methods_and_objects.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\methods_and_objects.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\ref\methods_and_objects.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\methods_and_objects.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\methods_and_objects\methods_and_objects\obj\Debug\net5.0\methods_and_objects.genruntimeconfig.cache
