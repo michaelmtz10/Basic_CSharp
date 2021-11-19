@@ -11,6 +11,9 @@ namespace methods_and_objects
             Employee employee_1 = new Employee(); // created instance of the employee class
             employee_1.Sayname(); // initialize object
             Console.ReadLine();
+            Employee employee_2 = new Employee();
+            employee_2.Quit();
+
         }
     }
 }

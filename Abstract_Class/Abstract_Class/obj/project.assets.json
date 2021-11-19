@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Abstract_Class\\Abstract_Class\\Abstract_Class.csproj",
+      "projectUniqueName": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Abstract_Class\\Abstract_Class\\Abstract_Class.csproj",
       "projectName": "Abstract_Class",
-      "projectPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Abstract_Class\\Abstract_Class\\Abstract_Class.csproj",
+      "projectPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Abstract_Class\\Abstract_Class\\Abstract_Class.csproj",
       "packagesPath": "C:\\Users\\mmtz1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Abstract_Class\\Abstract_Class\\obj\\",
+      "outputPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Abstract_Class\\Abstract_Class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmtz1\\AppData\\Roaming\\NuGet\\NuGet.Config",
