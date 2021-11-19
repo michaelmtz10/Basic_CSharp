@@ -8,10 +8,10 @@ namespace Abstract_Class
 {
     class Person
     {
-        public string firstname;
+        public string firstname; //created attributes
         public string lastname;
 
-        public virtual void Sayname()
+        public virtual void Sayname() // created virtual method to allow for inheritance
         {
             Console.WriteLine(firstname + lastname);
         }
