@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class
 {
-    class Employee : Person, IQuitter // adopted Perosn class, and implemented Iquitter "abstract" method
+    class Employee : Person
     {
-        public override void Sayname() // created method to add string onto initial Person method, which was inherited
+        public override void Sayname()
         {
             Console.WriteLine(firstname + lastname + "is a team member");
         }
