@@ -1,0 +1,16 @@
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\bin\Debug\net5.0\Enum_Challenge.exe
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\bin\Debug\net5.0\Enum_Challenge.deps.json
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\bin\Debug\net5.0\Enum_Challenge.runtimeconfig.json
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\bin\Debug\net5.0\Enum_Challenge.runtimeconfig.dev.json
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\bin\Debug\net5.0\Enum_Challenge.dll
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\bin\Debug\net5.0\ref\Enum_Challenge.dll
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\bin\Debug\net5.0\Enum_Challenge.pdb
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\Enum_Challenge.csproj.AssemblyReference.cache
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\Enum_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\Enum_Challenge.AssemblyInfoInputs.cache
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\Enum_Challenge.AssemblyInfo.cs
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\Enum_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\Enum_Challenge.dll
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\ref\Enum_Challenge.dll
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\Enum_Challenge.pdb
+C:\Users\mmtz1\source\repos\Enum_Challenge\Enum_Challenge\obj\Debug\net5.0\Enum_Challenge.genruntimeconfig.cache
