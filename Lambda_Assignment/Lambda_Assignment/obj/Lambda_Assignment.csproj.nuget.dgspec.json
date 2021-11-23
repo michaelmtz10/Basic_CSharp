@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmtz1\\source\\repos\\Lambda_Assignment\\Lambda_Assignment\\Lambda_Assignment.csproj": {}
+    "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Lambda_Assignment\\Lambda_Assignment\\Lambda_Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmtz1\\source\\repos\\Lambda_Assignment\\Lambda_Assignment\\Lambda_Assignment.csproj": {
+    "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Lambda_Assignment\\Lambda_Assignment\\Lambda_Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmtz1\\source\\repos\\Lambda_Assignment\\Lambda_Assignment\\Lambda_Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Lambda_Assignment\\Lambda_Assignment\\Lambda_Assignment.csproj",
         "projectName": "Lambda_Assignment",
-        "projectPath": "C:\\Users\\mmtz1\\source\\repos\\Lambda_Assignment\\Lambda_Assignment\\Lambda_Assignment.csproj",
+        "projectPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Lambda_Assignment\\Lambda_Assignment\\Lambda_Assignment.csproj",
         "packagesPath": "C:\\Users\\mmtz1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmtz1\\source\\repos\\Lambda_Assignment\\Lambda_Assignment\\obj\\",
+        "outputPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\Lambda_Assignment\\Lambda_Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmtz1\\AppData\\Roaming\\NuGet\\NuGet.Config",

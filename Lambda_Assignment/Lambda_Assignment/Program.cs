@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Lambda_Assignment
 {
@@ -7,7 +8,7 @@ namespace Lambda_Assignment
     {
         static void Main(string[] args)
         {
-            List<Employee> employee_data = new List<Employee>();
+            var employee_data = new List<Employee>();
             employee_data.Add(new Employee("michael", "desantis", 1));
             employee_data.Add(new Employee("john", "smith", 2));
             employee_data.Add(new Employee("joe", "thomas", 3));
@@ -19,11 +20,17 @@ namespace Lambda_Assignment
             employee_data.Add(new Employee("michael", "asumgua", 9));
             employee_data.Add(new Employee("garry", "lazereth", 10));
 
-            List<string> num_of_joes = employee_data.FindAll()
-            foreach (var joe in num_of_joes)
+            List<Employee> the_joes = new List<Employee>();
+
+            foreach (var joe in employee_data)
             {
-                if (employee_data.FindAll("joe"));
+                if (employee_data.Equals("joe"))
+                {
+                    the_joes.Add(joe);
+                }
+                Console.WriteLine(the_joes);
             }
+                
         }
     }
 }
