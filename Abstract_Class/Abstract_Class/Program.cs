@@ -7,26 +7,39 @@ namespace Abstract_Class
     {
         static void Main(string[] args)
         {
-            Employee employee_1 = new Employee(); // created instance of employee class
-            Employee employee_2 = new Employee();
+            List<Employee> employee_data = new List<Employee>();
+            employee_data.Add(new Employee("michael", "desantis", 1));
+            employee_data.Add(new Employee("john", "smith", 2));
+            employee_data.Add(new Employee("joe", "thomas", 3));
+            employee_data.Add(new Employee("kyle", "kyzer", 4));
+            employee_data.Add(new Employee("joe", "smith", 5));
+            employee_data.Add(new Employee("rob", "desantis", 6));
+            employee_data.Add(new Employee("don", "checho", 7));
+            employee_data.Add(new Employee("larry", "oConnor", 8));
+            employee_data.Add(new Employee("michael", "asumgua", 9));
+            employee_data.Add(new Employee("garry", "lazereth", 10));
 
-            var employee_data = new List<Employee>() {
-                new Employee(){ employee_Id = 1, firstname="Bill", lastname="maher"},
-                new Employee(){ employee_Id = 2, firstname="Steve", lastname="jobs"},
-                new Employee(){ employee_Id = 3, firstname="Ram", lastname="dolph"},
-                new Employee(){ employee_Id = 4, firstname="Abdul", lastname="jamar"},
-                new Employee(){ employee_Id = 5, firstname="joe", lastname="thomas"},
-                new Employee(){ employee_Id = 6, firstname="henry", lastname="jones"},
-                new Employee(){ employee_Id = 7, firstname="terrel", lastname="stevens"},
-                new Employee(){ employee_Id = 8, firstname="hatna", lastname="rutger"},
-                new Employee(){ employee_Id = 9, firstname="don", lastname="martinez"},
-                new Employee(){ employee_Id = 10, firstname="joe", lastname="jackson"},
-            };
-            foreach (Employee employee in employee_data)
+            var list_of_joe = new List<Employee>();
+            foreach (var joe in list_of_joe)
             {
-                
+                if (employee_data.Equals("joe"))
+                {
+                    list_of_joe.Add(joe);
+                }
             }
-
+            List<Employee> find_joe = employee_data.FindAll(z => z.first_name == "joe"); 
+            {
+                foreach(var thy_joe in find_joe)
+                {
+                    Console.WriteLine(thy_joe);
+                }
+            }
+            List<Employee> greater_than_5 = employee_data.FindAll(e => (e.employee_Id >= 5));
+            foreach (var g_tham in greater_than_5)
+            {
+                Console.WriteLine(greater_than_5);
+            }
+            Console.WriteLine();
         }
     }
 }
