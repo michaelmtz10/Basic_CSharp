@@ -1,0 +1,15 @@
+C:\Users\mmtz1\source\repos\DateTime\DateTime\bin\Debug\net5.0\Date_Time.exe
+C:\Users\mmtz1\source\repos\DateTime\DateTime\bin\Debug\net5.0\Date_Time.deps.json
+C:\Users\mmtz1\source\repos\DateTime\DateTime\bin\Debug\net5.0\Date_Time.runtimeconfig.json
+C:\Users\mmtz1\source\repos\DateTime\DateTime\bin\Debug\net5.0\Date_Time.runtimeconfig.dev.json
+C:\Users\mmtz1\source\repos\DateTime\DateTime\bin\Debug\net5.0\Date_Time.dll
+C:\Users\mmtz1\source\repos\DateTime\DateTime\bin\Debug\net5.0\ref\Date_Time.dll
+C:\Users\mmtz1\source\repos\DateTime\DateTime\bin\Debug\net5.0\Date_Time.pdb
+C:\Users\mmtz1\source\repos\DateTime\DateTime\obj\Debug\net5.0\Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\source\repos\DateTime\DateTime\obj\Debug\net5.0\Date_Time.AssemblyInfoInputs.cache
+C:\Users\mmtz1\source\repos\DateTime\DateTime\obj\Debug\net5.0\Date_Time.AssemblyInfo.cs
+C:\Users\mmtz1\source\repos\DateTime\DateTime\obj\Debug\net5.0\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\source\repos\DateTime\DateTime\obj\Debug\net5.0\Date_Time.dll
+C:\Users\mmtz1\source\repos\DateTime\DateTime\obj\Debug\net5.0\ref\Date_Time.dll
+C:\Users\mmtz1\source\repos\DateTime\DateTime\obj\Debug\net5.0\Date_Time.pdb
+C:\Users\mmtz1\source\repos\DateTime\DateTime\obj\Debug\net5.0\Date_Time.genruntimeconfig.cache
