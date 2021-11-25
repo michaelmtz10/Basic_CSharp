@@ -1,0 +1,16 @@
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.AssemblyInfo.cs
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\bin\Debug\net5.0\TwentyOne.exe
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\bin\Debug\net5.0\TwentyOne.deps.json
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\bin\Debug\net5.0\TwentyOne.runtimeconfig.json
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\bin\Debug\net5.0\TwentyOne.runtimeconfig.dev.json
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\bin\Debug\net5.0\TwentyOne.dll
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\bin\Debug\net5.0\ref\TwentyOne.dll
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\bin\Debug\net5.0\TwentyOne.pdb
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.dll
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\ref\TwentyOne.dll
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.pdb
+C:\Users\mmtz1\source\repos\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.genruntimeconfig.cache
