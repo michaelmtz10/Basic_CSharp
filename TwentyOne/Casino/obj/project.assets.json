@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Casino/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Casino.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Casino.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Casino/1.0.0": {
-      "type": "project",
-      "path": "../Casino/Casino.csproj",
-      "msbuildProject": "../Casino/Casino.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Casino >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\mmtz1\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\TwentyOne\\TwentyOne\\TwentyOne.csproj",
-      "projectName": "TwentyOne",
-      "projectPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\TwentyOne\\TwentyOne\\TwentyOne.csproj",
+      "projectUniqueName": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\TwentyOne\\Casino\\Casino.csproj",
+      "projectName": "Casino",
+      "projectPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\TwentyOne\\Casino\\Casino.csproj",
       "packagesPath": "C:\\Users\\mmtz1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\TwentyOne\\TwentyOne\\obj\\",
+      "outputPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\TwentyOne\\Casino\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmtz1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\TwentyOne\\Casino\\Casino.csproj": {
-              "projectPath": "C:\\Users\\mmtz1\\Desktop\\Basic_C#\\Basic_CSharp\\TwentyOne\\Casino\\Casino.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

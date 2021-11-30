@@ -1,0 +1,11 @@
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\bin\Debug\net5.0\Casino.deps.json
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\bin\Debug\net5.0\Casino.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\bin\Debug\net5.0\ref\Casino.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\bin\Debug\net5.0\Casino.pdb
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\obj\Debug\net5.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\obj\Debug\net5.0\Casino.AssemblyInfoInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\obj\Debug\net5.0\Casino.AssemblyInfo.cs
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\obj\Debug\net5.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\obj\Debug\net5.0\Casino.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\obj\Debug\net5.0\ref\Casino.dll
+C:\Users\mmtz1\Desktop\Basic_C#\Basic_CSharp\TwentyOne\Casino\obj\Debug\net5.0\Casino.pdb
