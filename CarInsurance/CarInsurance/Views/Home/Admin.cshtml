@@ -1,0 +1,18 @@
+﻿@model List<CarInsurance.Models.Table>
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+
+<h2>INSUREE</h2>
+
+    @foreach (var item in Model)
+    {
+        <h3>
+            Name: @item.FirstName @item.LastName <br/>
+            Email: @item.EmailAddress <br />
+            Quote: @item.Quote_
+
+        </h3>
+    }
