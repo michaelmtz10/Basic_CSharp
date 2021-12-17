@@ -181,6 +181,40 @@ namespace CarInsurance.Controllers
             }
             return View(table);
         }
+        [HttpPost]
+        public ActionResult Generate(string firstName, string lastName, string emailAddress, DateTime dateOfBirth, int carYear, string carMake, string carModel, bool dui, int speedingTickets, bool coverageType, decimal Quote)
+        {
+            if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName) || string.IsNullOrEmpty(emailAddress) || string.IsNullOrEmpty(dateOfBirth.ToString()) || string.IsNullOrEmpty(carYear.ToString()) || string.IsNullOrEmpty(carMake.ToString()) || string.IsNullOrEmpty(carModel.ToString()) || string.IsNullOrEmpty(speedingTickets.ToString()) || string.IsNullOrEmpty(Quote.ToString()))
+            {
+                return View("~/Views/Shared/DataErrorInfoModelValidatorProvider.cshtml");
+            }
+            else
+            {
+                using (InsuranceEntities db = new InsuranceEntities())
+                {
+                    var insuree = new Table();
+                    insuree.FirstName = firstName;
+                    insuree.LastName = lastName;
+                    insuree.EmailAddress = emailAddress;
+                    insuree.DateOfBirth = dateOfBirth;
+                    insuree.CarYear = carYear;
+                    insuree.CarMake = carMake;
+                    insuree.CarModel = carModel;
+                    insuree.DUI = dui;
+                    insuree.SpeedingTickets = speedingTickets;
+                    insuree.CoverageType = coverageType;
+                    insuree.Quote_ = Calculate(dateOfBirth, carYear, carMake, carModel, dui, speedingTickets, coverageType);
 
+                    db.Tables.Add(insuree);
+                    db.SaveChanges();
+                }
+                return RedirectToAction("Index");
+            }
+        }
+
+        private decimal Calculate(DateTime dateOfBirth, int carYear, string carMake, string carModel, bool dui, int speedingTickets, bool coverageType)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

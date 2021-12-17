@@ -29,40 +29,5 @@ namespace CarInsurance.Controllers
 
             return View();
         }
-        public ActionResult Admin()
-        {
-            string queryString = "Select * From Table";
-
-            List<Table> tables = new List<Table>();
-
-            using (SqlConnection connection = new SqlConnection(_connectionString))
-            {
-                SqlCommand command = new SqlCommand(queryString, connection);
-                connection.Open();
-                SqlDataReader reader = command.ExecuteReader();
-
-                while (reader.Read())
-                {
-                    Table table = new Table();
-
-                    table.Id = Convert.ToInt32(reader["Id"]);
-                    table.FirstName = reader["FirstName"].ToString();
-                    table.LastName = reader["LastName"].ToString();
-                    table.EmailAddress = reader["EmailAddress"].ToString();
-                    table.DateOfBirth = Convert.ToDateTime(reader["DateOfBirth"]);
-                    table.CarYear = Convert.ToInt32(reader["CarYear"]);
-                    table.CarMake = reader["CarMake"].ToString();
-                    table.CarModel = reader["CarModel"].ToString();
-                    table.DUI = Convert.ToBoolean(reader["DUI"]);
-                    table.SpeedingTickets = Convert.ToInt32(reader["SpeedingTickets"]);
-                    table.CoverageType = Convert.ToBoolean(reader["CoverageType"]);
-                    table.Quote_ = Convert.ToDecimal(reader["Quote_"]);
-
-                    tables.Add(table);
-                }
-                connection.Close();
-            }
-            return View(tables);
-        }
     }
 }
