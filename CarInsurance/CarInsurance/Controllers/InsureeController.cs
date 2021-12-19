@@ -53,7 +53,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Tables.Add(table);
+                db.Entry(table).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -131,11 +131,11 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                int quote = 50;
+                decimal quote = 50;
 
-                var age = DateTime.Now.Year - table.DateOfBirth.Year;
+                int age = DateTime.Now.Year - table.DateOfBirth.Year;
 
-                if(age < 18)
+                if(age <= 18)
                 {
                     quote = quote + 100;
                 }
@@ -143,7 +143,7 @@ namespace CarInsurance.Controllers
                 {
                     quote = quote + 25;
                 }
-                else if (age > 18 || age < 25)
+                else if (age >= 19 || age <= 25)
                 {
                     quote = quote + 50;
                 }
