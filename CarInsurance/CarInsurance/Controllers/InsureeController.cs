@@ -13,8 +13,7 @@ namespace CarInsurance.Controllers
 {
     public class InsureeController : Controller
     {
-        private string _connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\mmtz1\source\repos\CarInsurance\CarInsurance\App_Data\Insurance.mdf;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework";
-
+    
         private InsuranceEntities db = new InsuranceEntities();
 
         // GET: Insuree
@@ -53,7 +52,8 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Entry(table).State = EntityState.Modified;
+                table.Quote_ = Get_Quote(table);
+                db.Tables.Add(table);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -127,94 +127,63 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        public ActionResult Get_Quote([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")]Table table)
+        public static decimal Get_Quote(Table insuree)
         {
-            if (ModelState.IsValid)
-            {
-                decimal quote = 50;
+            decimal quote = 50;
+            DateTime now = DateTime.Today;
 
-                int age = DateTime.Now.Year - table.DateOfBirth.Year;
+            var age = now.Year - insuree.DateOfBirth.Year;
 
-                if(age <= 18)
-                {
-                    quote = quote + 100;
-                }
-                else if (age > 25)
-                {
-                    quote = quote + 25;
-                }
-                else if (age >= 19 || age <= 25)
-                {
-                    quote = quote + 50;
-                }
-                if (table.CarYear < 2000)
-                {
-                    quote = quote + 25;
-                }
-                else if (table.CarYear > 2015)
-                {
-                    quote = quote + 25;
-                }
-                if (table.CarMake == "Porsche")
-                {
-                    quote = quote + 25;
-                }
-                if (table.CarMake == "Porsche" && table.CarModel == "911 Carrera")
-                {
-                    quote = quote + 25;
-                }
-                if (table.SpeedingTickets > 0)
-                {
-                    quote = quote + (10 * table.SpeedingTickets);
-                }
-                if (table.DUI == true)
-                {
-                    quote = quote + (quote / 4);
-                }
-                if (table.CoverageType == true)
-                {
-                    quote = quote + (quote / 2);
-                }
-                db.Tables.Add(table);
-                db.SaveChanges();
-                return RedirectToAction("Index");
-            }
-            return View(table);
-        }
-        [HttpPost]
-        public ActionResult Generate(string firstName, string lastName, string emailAddress, DateTime dateOfBirth, int carYear, string carMake, string carModel, bool dui, int speedingTickets, bool coverageType, decimal Quote)
-        {
-            if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName) || string.IsNullOrEmpty(emailAddress) || string.IsNullOrEmpty(dateOfBirth.ToString()) || string.IsNullOrEmpty(carYear.ToString()) || string.IsNullOrEmpty(carMake.ToString()) || string.IsNullOrEmpty(carModel.ToString()) || string.IsNullOrEmpty(speedingTickets.ToString()) || string.IsNullOrEmpty(Quote.ToString()))
-            {
-                return View("~/Views/Shared/DataErrorInfoModelValidatorProvider.cshtml");
-            }
-            else
-            {
-                using (InsuranceEntities db = new InsuranceEntities())
-                {
-                    var insuree = new Table();
-                    insuree.FirstName = firstName;
-                    insuree.LastName = lastName;
-                    insuree.EmailAddress = emailAddress;
-                    insuree.DateOfBirth = dateOfBirth;
-                    insuree.CarYear = carYear;
-                    insuree.CarMake = carMake;
-                    insuree.CarModel = carModel;
-                    insuree.DUI = dui;
-                    insuree.SpeedingTickets = speedingTickets;
-                    insuree.CoverageType = coverageType;
-                    insuree.Quote_ = Calculate(dateOfBirth, carYear, carMake, carModel, dui, speedingTickets, coverageType);
 
-                    db.Tables.Add(insuree);
-                    db.SaveChanges();
-                }
-                return RedirectToAction("Index");
+            if (age <= 18)
+            {
+                quote += 100;
             }
+            if (age > 25)
+            {
+                quote += 25;
+            }
+            if (age >= 19 || age <= 25)
+            {
+                quote += 50;
+            }
+            if (insuree.CarYear < 2000)
+            {
+                quote += 25;
+            }
+            if (insuree.CarYear > 2015)
+            {
+                quote += 25;
+            }
+            if (insuree.CarMake == "Porsche")
+            {
+                quote += 25;
+            }
+            if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+            {
+                quote += 25;
+            }
+            if (insuree.SpeedingTickets > 0)
+            {
+                quote += (10 * insuree.SpeedingTickets);
+            }
+            if (insuree.DUI)
+            {
+                quote += (quote / 4);
+            }
+            if (insuree.CoverageType)
+            {
+                quote += (quote / 2);
+
+            }
+
+            insuree.Quote_ = quote;
+
+
+
+            return insuree.Quote_;
+
         }
 
-        private decimal Calculate(DateTime dateOfBirth, int carYear, string carMake, string carModel, bool dui, int speedingTickets, bool coverageType)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
