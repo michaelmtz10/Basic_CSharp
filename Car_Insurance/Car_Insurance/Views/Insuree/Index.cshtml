@@ -1,4 +1,4 @@
-﻿@model List<Car_Insurance.Models.Insuree>
+﻿@model IEnumerable<Car_Insurance.Models.Insuree>
 
 @{
     ViewBag.Title = "Index";
@@ -9,7 +9,7 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
-<table class="table">
+<table class="Insuree">
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.FirstName)

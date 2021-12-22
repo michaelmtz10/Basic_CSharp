@@ -51,6 +51,7 @@ namespace Car_Insurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = Get_Quote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
