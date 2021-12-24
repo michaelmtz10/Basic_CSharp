@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShSSMiIIeVQQS7fUxFmtCwJwppU9Db6XeZzGJN/sVE1HqR0q6sCZojojHj+Hb0Kw/V9iEwaQwrAWh7q3voH2+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grism\\source\\repos\\C_Sharp_Challenges\\C_Sharp_Challenges\\C_Sharp_Challenges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grism\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
