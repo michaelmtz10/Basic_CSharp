@@ -6,8 +6,8 @@
     <li>TwentyOne Card Game</li>
     <li>Car Insurance Application</li>
     
-    <h1>TwentyOne/Casino Game</h1>
-    <p>This console application creates a digital twentyone card game.\n It allows the user to enter name and bet amount \n
-    with various classes to mimic objects you would find in a casino environment\n, it can be further expanded using built in classes! \n<p>
+<h1>TwentyOne/Casino Game</h1>
+<p>This console application creates a digital twentyone card game.<br> It allows the user to enter name and bet amount <br>
+with various classes to mimic objects you would find in a casino environment<br>, it can be further expanded using built in classes!</p>
     
 
